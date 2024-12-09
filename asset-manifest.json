@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/github.io/portfolio02/static/css/main.88b43474.css",
+    "main.js": "/github.io/portfolio02/static/js/main.64e3be6f.js",
+    "static/js/415.c553b9ac.chunk.js": "/github.io/portfolio02/static/js/415.c553b9ac.chunk.js",
+    "static/js/787.28d1ee6a.chunk.js": "/github.io/portfolio02/static/js/787.28d1ee6a.chunk.js",
+    "static/media/proj1.png": "/github.io/portfolio02/static/media/proj1.270ed0bb7c54f5c18fb0.png",
+    "static/media/proj4.png": "/github.io/portfolio02/static/media/proj4.757cb1b58834d7982534.png",
+    "static/media/logo.png": "/github.io/portfolio02/static/media/logo.86b5048e956435e950a1.png",
+    "static/media/Nidhi Parikh_Full Stack Developer(Mern Stack).pdf": "/github.io/portfolio02/static/media/Nidhi Parikh_Full Stack Developer(Mern Stack).a9231a31cfbac63c73ac.pdf",
+    "static/media/proj3.png": "/github.io/portfolio02/static/media/proj3.cb5e4e59bc3b2ed8cfd1.png",
+    "static/media/home-main.svg": "/github.io/portfolio02/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/github.io/portfolio02/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/proj5.png": "/github.io/portfolio02/static/media/proj5.134f2ed56c93d788c2c2.png",
+    "static/media/proj6.png": "/github.io/portfolio02/static/media/proj6.1d5878b1c9413e85f4b7.png",
+    "static/media/proj2.png": "/github.io/portfolio02/static/media/proj2.7728e44823db6263231c.png",
+    "static/media/home-bg.jpg": "/github.io/portfolio02/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/github.io/portfolio02/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/github.io/portfolio02/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/github.io/portfolio02/index.html",
+    "main.88b43474.css.map": "/github.io/portfolio02/static/css/main.88b43474.css.map",
+    "main.64e3be6f.js.map": "/github.io/portfolio02/static/js/main.64e3be6f.js.map",
+    "415.c553b9ac.chunk.js.map": "/github.io/portfolio02/static/js/415.c553b9ac.chunk.js.map",
+    "787.28d1ee6a.chunk.js.map": "/github.io/portfolio02/static/js/787.28d1ee6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88b43474.css",
+    "static/js/main.64e3be6f.js"
+  ]
+}
